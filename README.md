@@ -19,4 +19,4 @@ Cтоит задача проанализировать данные и спро
 
 Стек: Python, sklearn, numpy, pandas, matplotlib, seaborn
 
-Если файл не открывается - https://drive.google.com/file/d/1Y-SqBfIWdfk86snax5gG_fPk9W0Hjl4P/view?usp=sharing
+Если файл не открывается - https://colab.research.google.com/drive/1Whq-Bga4Asu04Z-E62G8K8-tNnL4VZYv
